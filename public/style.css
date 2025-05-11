@@ -1,0 +1,22 @@
+div{
+  text-align: center;
+  background-color: aquamarine;
+  max-width: 400px;
+  margin-left: 350px;
+  margin-top: 50px;
+  border: 5px solid red;
+  
+}
+div input{
+  padding:10px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+
+}
+button{
+  background-color: blue;
+  padding:10px;
+  border: none;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
